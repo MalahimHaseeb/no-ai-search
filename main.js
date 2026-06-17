@@ -132,3 +132,12 @@ setEngine(activeEngine);
 
 setTimeout(() => { kbdHint.style.opacity = '1'; }, 1200);
 setTimeout(() => { kbdHint.style.opacity = '0'; }, 3500);
+
+document.querySelectorAll('.bang-item').forEach(item => {
+  item.addEventListener('click', () => {
+    const bang = item.querySelector('code').textContent.trim();
+    input.value = bang + ' ';
+    input.focus();
+    clearBtn.classList.add('show');
+  });
+});

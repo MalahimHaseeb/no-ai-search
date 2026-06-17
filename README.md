@@ -1,8 +1,13 @@
 # no-ai-search
 
-A minimal browser new-tab search page. Pick your engine, search without AI clutter, use bang shortcuts to jump anywhere fast.
+A minimal browser new-tab search page. Pick your engine, search without AI clutter.
 
 **Live demo → [MalahimHaseeb.github.io/no-ai-search](https://MalahimHaseeb.github.io/no-ai-search)**
+
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://malahimhaseeb.github.io/no-ai-search/)
+[![GitHub Pages](https://img.shields.io/badge/hosted-GitHub%20Pages-blue)](https://malahimhaseeb.github.io/no-ai-search/)
+[![License](https://img.shields.io/badge/license-MIT-gray)](./LICENSE)
+[![No AI](https://img.shields.io/badge/AI%20Overview-disabled-red)](https://malahimhaseeb.github.io/no-ai-search/)
 
 ---
 
@@ -74,5 +79,8 @@ no-ai-search/
 
 MIT
 
-## Built By
-Malahim Haseeb (malahim.dev)
+---
+
+## Built by
+
+[Malahim Haseeb](https://malahim.dev)
